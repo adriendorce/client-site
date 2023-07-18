@@ -1,7 +1,7 @@
 # Client Site
 
 
-Client for tax office.
+Client site for tax office.
 
 **Link to project:** https://tax-office.netlify.app/
 
